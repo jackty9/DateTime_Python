@@ -6,3 +6,9 @@ This Python notebook consists of 3 sectons:
 
 - Snippet 1: Converting strings to datetime and vice versa 
 ![alt text](Output_Snippet1.png)
+
+- Snippet 2: Working with different timezones 
+![alt text](Output_Snippet2.png)
+
+- Snippet 3: Conditionally compare different datetimes 
+![alt text](Output_Snippet1.png)
